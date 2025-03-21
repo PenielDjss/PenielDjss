@@ -8,7 +8,7 @@ Toujours curieux, j'explore aussi **Java, PHP et Python** pour enrichir mes comp
 
 📫 Retrouvons-nous sur [Lien Indisponible] !
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Peniel !
 
 Passionate about **Front-end**, **UI/UX**, and beautiful interfaces, 
 I craft engaging visual experiences using **React** and **Tailwind CSS**. 
